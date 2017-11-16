@@ -1,6 +1,6 @@
 #import "Skype4COM.dll" 
 
-int main(int argc) 
+int _tmain(int argc) 
 {
 	// Инициализмруем COM соединение 
 	CoInitialize(NULL);
